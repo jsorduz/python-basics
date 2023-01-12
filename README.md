@@ -4,6 +4,7 @@ This is a basic python repository with information/notes about the language
 ## Topics
 - Closures
 - Coroutines
+- AsyncIO
 
 ## Usage
 This repository uses jupyter notebook to illustrate the theory  with examples.
