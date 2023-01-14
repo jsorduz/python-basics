@@ -2,9 +2,10 @@
 This is a basic python repository with information/notes about the language
 
 ## Topics
+- AsyncIO
 - Closures
 - Coroutines
-- AsyncIO
+- Decorators
 
 ## Usage
 This repository uses jupyter notebook to illustrate the theory  with examples.
